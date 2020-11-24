@@ -1,0 +1,12 @@
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\bin\Debug\netcoreapp2.1\01.01_pratique.deps.json
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\bin\Debug\netcoreapp2.1\01.01_pratique.runtimeconfig.json
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\bin\Debug\netcoreapp2.1\01.01_pratique.runtimeconfig.dev.json
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\bin\Debug\netcoreapp2.1\01.01_pratique.dll
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\bin\Debug\netcoreapp2.1\01.01_pratique.pdb
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.csprojAssemblyReference.cache
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.AssemblyInfoInputs.cache
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.AssemblyInfo.cs
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.csproj.CoreCompileInputs.cache
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.dll
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.pdb
+C:\Alura\Certificacao_CSharp\certificacao-csharp-pt7-master\certificacao-csharp-pt7-master\01\01.01\antes\obj\Debug\netcoreapp2.1\01.01_pratique.genruntimeconfig.cache
